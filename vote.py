@@ -1,3 +1,4 @@
+print("Welcome to voting system")
 age = int(input("Enter your age: "))
 
 if age >= 18:
